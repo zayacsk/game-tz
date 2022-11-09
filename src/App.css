@@ -1,0 +1,17 @@
+.getHit{
+  position: absolute;
+  left: 30%;
+  top: 47%;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(252, 83, 53);
+  font-size: large;
+  font-weight: 500;
+}
+.getHit:hover{
+  background-color: rgb(210, 69, 44);
+}
+.getHit:disabled{
+  background-color: rgba(252, 83, 53, 0.759);
+}
